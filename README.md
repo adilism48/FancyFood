@@ -10,6 +10,9 @@ Important: I used api form other topics so give a chance and imagine that in app
 - Show restaurants menu
 - Add food to cart(not done, timeout)
 
+## API
+Used two different APIs - Fake Store API and JSON Placeholder. Spend 2~ hours to find way to do that task without special API for restaurants.
+
 ## Video Illustration
 https://youtu.be/9utnf5S9UMQ
 
