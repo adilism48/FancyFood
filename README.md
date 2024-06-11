@@ -1,6 +1,8 @@
 # Fancy food
 Fancy food app shows restaraunts and their food menu that you can add to your cart(not done, timeout)
 
+Important: I used api form other topics so give a chance and imagine that in app restaurants and food.
+
 <img src="https://github.com/adilism48/FancyFood/blob/main/img/ffm.png" width="300"><img src="https://github.com/adilism48/FancyFood/blob/main/img/ffr.png" width="300">
 
 # Functuanality
